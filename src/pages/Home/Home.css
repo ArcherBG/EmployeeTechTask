@@ -1,0 +1,15 @@
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 4rem;
+}
+
+.homeContainer > .title {
+  align-self: center;
+}
+
+.homeContainer > .featuresWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

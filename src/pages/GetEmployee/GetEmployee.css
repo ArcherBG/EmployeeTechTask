@@ -1,0 +1,10 @@
+.employeeContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 4rem;
+}
+
+.employeeContainer > .title {
+  align-self: center;
+  margin-bottom: 2rem;
+}
